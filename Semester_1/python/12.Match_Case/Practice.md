@@ -1021,21 +1021,21 @@ match number:
 
 | Question | Your Output |
 |---|---|
-| Q1 | |
-| Q2 | |
-| Q3 | |
-| Q4 | |
-| Q5 | |
-| Q6 | |
-| Q7 | |
-| Q8 | |
-| Q9 | |
-| Q10 | |
-| Q11 | |
-| Q12 | |
-| Q13 | |
-| Q14 | |
-| Q15 | |
+| Q1 |"Add" |
+| Q2 |"Three"|
+| Q3 |"Invalid"|
+| Q4 |"Second"|
+| Q5 |"Sunday"|
+| Q6 |"Ten"|
+| Q7 |"Other"|
+| Q8 |"Invalid Choice"|
+| Q9 |"Stop"|
+| Q10 |"Stop"|
+| Q11 |"Starting"|
+| Q12 |"Unknown Cammand"|
+| Q13 |"Weekday"|
+| Q14 |"Weekend"|
+| Q15 |"Even Group"|
 | Q16 | |
 | Q17 | |
 | Q18 | |
